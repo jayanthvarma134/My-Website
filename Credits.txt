@@ -1,0 +1,5 @@
+I used a third party library called Lightbox Gallery for moving through images in the GALLERY section.
+
+Lightbox Gallery :  https://lokeshdhakar.com/projects/lightbox2/
+
+(also the youtube video explaining the lightbox gallery : https://www.youtube.com/watch?time_continue=409&v=TSRtBISvsh4&feature=emb_logo)
