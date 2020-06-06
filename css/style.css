@@ -1,5 +1,6 @@
 
 body = {
+	font-family: 'Tenali Ramakrishna', sans-serif;
 	margin : 0px;
 }
 
@@ -122,4 +123,8 @@ body = {
 	margin-left: 30px;
 	/*border-radius: 50%;*/
 	box-shadow: -2px -3px 8px 0 rgba(0,0,0,0.4);
+}
+
+.about-item-contnet {
+	font-family: 'Tenali Ramakrishna';
 }
