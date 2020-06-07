@@ -1,6 +1,5 @@
-
-body = {
-	font-family: 'Tenali Ramakrishna', sans-serif;
+body {
+	font-family: 'Lato', sans-serif;
 	margin : 0px;
 }
 
@@ -44,8 +43,13 @@ body = {
 	color: black;
 }
 
+.active-nav-link {
+	border-bottom: 1px solid black;
+}
 
-
+.active-nav-link a{
+	color: black !important;
+}
 /* gallery styles */
 
 .content-wrapper {
@@ -126,12 +130,12 @@ body = {
 	box-shadow: 2px 4px 8px 0 rgba(0,0,0,0.3);
 }
 
-.about-item-contnet {
-	/*font-family: 'Tenali Ramakrishna';*/
+.about-item-content-text {
+	margin-right: 15px;
 }
 
 .about-item-content-text p {
-	font-size: 1.6vw;
+	font-size: 120%;
 }
 
 .about-item-content-links {
@@ -177,7 +181,6 @@ body = {
 }
 
 .projects-section-item-card {
-	font-size: 1.2vw;
 	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
 	transition: 0.1s;
 }
@@ -212,3 +215,6 @@ body = {
 	color: #ff8000;	
 }
 
+
+
+/* Research and Publications styles*/
